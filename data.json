@@ -1,12 +1,42 @@
 [
-  { "name": "Amitabh", "sql": 0, "coding": 0, "dsa": 0 },
-  { "name": "Ankit", "sql": 0, "coding": 0, "dsa": 0 },
-  { "name": "Rajesh", "sql": 0, "coding": 0, "dsa": 0 },
-  { "name": "Niloy", "sql": 0, "coding": 0, "dsa": 0 },
-  { "name": "Prakash", "sql": 0, "coding": 0, "dsa": 0 },
-  { "name": "Rishikesh", "sql": 0, "coding": 0, "dsa": 0 },
-  { "name": "Rishav", "sql": 0, "coding": 0, "dsa": 0 },
-  { "name": "Samiran", "sql": 0, "coding": 0, "dsa": 0 },
-  { "name": "Tridev", "sql": 0, "coding": 0, "dsa": 0 },
-  { "name": "Bhuwaneshwar", "sql": 0, "coding": 0, "dsa": 0 }
+  {
+    "name": "Amitabh",
+    "sessions": [{ "date": "03/08/2026", "sql": 0, "coding": 0, "dsa": 0 }]
+  },
+  {
+    "name": "Ankit",
+    "sessions": [{ "date": "03/08/2026", "sql": 0, "coding": 0, "dsa": 0 }]
+  },
+  {
+    "name": "Rajesh",
+    "sessions": [{ "date": "03/08/2026", "sql": 0, "coding": 0, "dsa": 0 }]
+  },
+  {
+    "name": "Niloy",
+    "sessions": [{ "date": "03/08/2026", "sql": 0, "coding": 0, "dsa": 0 }]
+  },
+  {
+    "name": "Prakash",
+    "sessions": [{ "date": "03/08/2026", "sql": 0, "coding": 0, "dsa": 0 }]
+  },
+  {
+    "name": "Rishikesh",
+    "sessions": [{ "date": "03/08/2026", "sql": 0, "coding": 0, "dsa": 0 }]
+  },
+  {
+    "name": "Rishav",
+    "sessions": [{ "date": "03/08/2026", "sql": 0, "coding": 0, "dsa": 0 }]
+  },
+  {
+    "name": "Samiran",
+    "sessions": [{ "date": "03/08/2026", "sql": 0, "coding": 0, "dsa": 0 }]
+  },
+  {
+    "name": "Tridev",
+    "sessions": [{ "date": "03/08/2026", "sql": 0, "coding": 0, "dsa": 0 }]
+  },
+  {
+    "name": "Bhuwaneshwar",
+    "sessions": [{ "date": "03/08/2026", "sql": 0, "coding": 0, "dsa": 0 }]
+  }
 ]
